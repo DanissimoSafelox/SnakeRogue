@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bdkmvnxbkku5k"]
+
+[ext_resource type="PackedScene" uid="uid://dkpnlsu5b8hyl" path="res://Components/item.tscn" id="1_5gbkw"]
+[ext_resource type="Texture2D" uid="uid://b4w4db3sn2rmi" path="res://Graphics/keys/keys_2_1.png" id="2_3cd33"]
+
+[node name="Key" type="Node2D"]
+metadata/_edit_vertical_guides_ = [-128.0]
+
+[node name="Item" parent="." instance=ExtResource("1_5gbkw")]
+Item_type = "key"
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+scale = Vector2(2.28687, 1.96813)
+texture = ExtResource("2_3cd33")

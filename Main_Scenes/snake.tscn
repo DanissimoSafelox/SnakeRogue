@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3 uid="uid://cokp6uigh0k0c"]
+
+[ext_resource type="Script" path="res://Main_scripts/snake.gd" id="1_easrk"]
+[ext_resource type="Texture2D" uid="uid://bjrswr3iqm4se" path="res://Graphics/Snake_spritesheet.png" id="1_le66w"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ndlql"]
+radius = 19.0263
+
+[node name="Snake" type="CharacterBody2D"]
+collision_layer = 2
+script = ExtResource("1_easrk")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+modulate = Color(0, 1, 0.239216, 1)
+z_index = 1
+texture_filter = 1
+position = Vector2(0, -1)
+texture = ExtResource("1_le66w")
+hframes = 8
+vframes = 2
+frame = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_ndlql")
+
+[node name="Camera2D" type="Camera2D" parent="."]

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b824y4x76i6or"]
+
+[ext_resource type="Script" path="res://Effects/Item_move_effect.gd" id="1_w0k8l"]
+
+[node name="Item_move_effect" type="Node2D"]
+script = ExtResource("1_w0k8l")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]

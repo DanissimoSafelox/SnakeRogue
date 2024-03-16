@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://da6hc846lt3pc"]
+
+[ext_resource type="Script" path="res://Main_scripts/world.gd" id="1_cp458"]
+[ext_resource type="PackedScene" uid="uid://cokp6uigh0k0c" path="res://Main_Scenes/snake.tscn" id="1_l5hgo"]
+[ext_resource type="Texture2D" uid="uid://dlt2nl5gmhcg1" path="res://Graphics/grass.png" id="3_8g4vb"]
+[ext_resource type="PackedScene" uid="uid://bdkmvnxbkku5k" path="res://Items/key.tscn" id="4_hi8lq"]
+
+[node name="World" type="Node2D"]
+script = ExtResource("1_cp458")
+
+[node name="Snake" parent="." instance=ExtResource("1_l5hgo")]
+position = Vector2(466, 235)
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = -56.0
+offset_top = -72.0
+offset_right = 968.0
+offset_bottom = 680.0
+texture = ExtResource("3_8g4vb")
+stretch_mode = 1
+
+[node name="Key" parent="." instance=ExtResource("4_hi8lq")]
+position = Vector2(392, 80)
+
+[node name="Key2" parent="." instance=ExtResource("4_hi8lq")]
+position = Vector2(280, 280)
+
+[node name="Key3" parent="." instance=ExtResource("4_hi8lq")]
+position = Vector2(344, 192)
+
+[node name="Key4" parent="." instance=ExtResource("4_hi8lq")]
+position = Vector2(256, 176)

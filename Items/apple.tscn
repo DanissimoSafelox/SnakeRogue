@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://ciyj7r0agpp1c"]
+
+[ext_resource type="PackedScene" uid="uid://dkpnlsu5b8hyl" path="res://Components/item.tscn" id="1_k0msg"]
+[ext_resource type="Texture2D" uid="uid://bwie2qlbsjh0j" path="res://Graphics/apple.png" id="2_rmqfu"]
+
+[node name="Apple" type="Node2D"]
+
+[node name="Item" parent="." instance=ExtResource("1_k0msg")]
+Item_type = "food"
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -2)
+texture = ExtResource("2_rmqfu")
