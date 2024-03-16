@@ -9,7 +9,7 @@
 script = ExtResource("1_cp458")
 
 [node name="Snake" parent="." instance=ExtResource("1_l5hgo")]
-position = Vector2(136, 96)
+position = Vector2(240, 400)
 
 [node name="TextureRect" type="TextureRect" parent="."]
 offset_left = -56.0
