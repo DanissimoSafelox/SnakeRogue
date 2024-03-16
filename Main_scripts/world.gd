@@ -11,7 +11,7 @@ func _ready():
 	spawn_food(10)
 	randomize()
 	
-	
+
 
 func spawn_food(count):
 	for i in count:

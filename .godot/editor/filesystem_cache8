@@ -1,5 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710612150
+::res://::1710615058
+export_presets.cfg::TextFile::-1::1710613497::0::1::::<><>::
 icon.svg::CompressedTexture2D::874744257757580841::1709899593::1709899596::1::::<><>::
 ::res://Components/::1710094986
 item.tscn::PackedScene::7892926096091537455::1710094986::0::1::::<><>::res://item_scripts/item.gd
@@ -240,11 +241,11 @@ apple.tscn::PackedScene::5384501712453439306::1710094986::0::1::::<><>::uid://dk
 key.tscn::PackedScene::2618397816126265766::1710094986::0::1::::<><>::uid://dkpnlsu5b8hyl::::res://Components/item.tscn<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
 ::res://item_scripts/::1710088311
 item.gd::GDScript::-1::1710088311::0::1::::Item<>Area2D<>::
-::res://Main_Scenes/::1710095894
+::res://Main_Scenes/::1710615172
 segment.tscn::PackedScene::5441140815694158095::1710095894::0::1::::<><>::res://Main_scripts/segment.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
 snake.tscn::PackedScene::5777096133470202100::1710094986::0::1::::<><>::res://Main_scripts/snake.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png
-world.tscn::PackedScene::7223688131486191576::1710094986::0::1::::<><>::res://Main_scripts/world.gd<>uid://cokp6uigh0k0c::::res://Main_Scenes/snake.tscn<>uid://dlt2nl5gmhcg1::::res://Graphics/grass.png<>uid://bdkmvnxbkku5k::::res://Items/key.tscn
-::res://Main_scripts/::1710094822
+world.tscn::PackedScene::7223688131486191576::1710615172::0::1::::<><>::res://Main_scripts/world.gd<>uid://cokp6uigh0k0c::::res://Main_Scenes/snake.tscn<>uid://dlt2nl5gmhcg1::::res://Graphics/grass.png<>uid://bdkmvnxbkku5k::::res://Items/key.tscn
+::res://Main_scripts/::1710615172
 segment.gd::GDScript::-1::1710092237::0::1::::<>CharacterBody2D<>::
 snake.gd::GDScript::-1::1710094822::0::1::::<>CharacterBody2D<>::
-world.gd::GDScript::-1::1709998151::0::1::::<>Node2D<>::
+world.gd::GDScript::-1::1710615172::0::1::::<>Node2D<>::
