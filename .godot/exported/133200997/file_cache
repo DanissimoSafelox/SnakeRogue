@@ -1,0 +1,8 @@
+res://Components/item.tscn::86ffd4be19d1ef9e02c512c5adaec86f::1710624274::res://.godot/exported/133200997/export-3bc029a9a37e46eb8f3625c99763e23c-item.scn
+res://Effects/item_move_effect.tscn::0f1e493252a0c4edd97e7010376eff13::1710624274::res://.godot/exported/133200997/export-2826a99ab6fd1c46748cb25968531636-item_move_effect.scn
+res://Items/apple.tscn::17696f90ef0aca5f71976c0f08596e43::1710624274::res://.godot/exported/133200997/export-862b25796c1a5ebae49dd0a214386a3a-apple.scn
+res://Items/key.tscn::36c3884829681a58a702076da0335eef::1710624274::res://.godot/exported/133200997/export-fcd8009e3c5480a6e054698ef9d145c2-key.scn
+res://Main_Scenes/main_menu.tscn::97c3cfe9437bcf44b88a14bb9a743a64::1710624274::res://.godot/exported/133200997/export-9a24977eedb71f174e8d61b5aa42e823-main_menu.scn
+res://Main_Scenes/segment.tscn::2b2696058140435e424a3dcefa4fd3ce::1710624274::res://.godot/exported/133200997/export-4ddc73eca802e6b86f1f29306e2ed420-segment.scn
+res://Main_Scenes/snake.tscn::df0de9b9af2b032047d34b597fdeb2d4::1710624274::res://.godot/exported/133200997/export-9cc2155aeb9614c7ac13f97d8d3bff93-snake.scn
+res://Main_Scenes/world.tscn::16317ba0c3865934fa5f93659f208797::1710624274::res://.godot/exported/133200997/export-bfae01667987a00e4624efa2d392cf4a-world.scn

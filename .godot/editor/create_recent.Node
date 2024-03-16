@@ -1,5 +1,9 @@
 Button
 Label
+VBoxContainer
+PanelContainer
+Panel
+MarginContainer
 AnimationPlayer
 Sprite2D
 Node2D
@@ -8,8 +12,3 @@ Item
 StaticBody2D
 TextureRect
 Camera2D
-Area2D
-NavigationObstacle2D
-Timer
-CharacterBody2D
-RigidBody2D

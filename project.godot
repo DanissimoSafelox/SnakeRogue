@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="SnakeRogue"
-run/main_scene="res://Main_Scenes/world.tscn"
+run/main_scene="res://Main_Scenes/main_menu.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+Global="*res://global/global.gd"
 
 [display]
 
