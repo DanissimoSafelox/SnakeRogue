@@ -1,19 +1,19 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710620864
-export_presets.cfg::TextFile::-1::1710620678::0::1::::<><>::
+::res://::1713798834
+export_presets.cfg::TextFile::-1::1710627961::0::1::::<><>::
 icon.svg::CompressedTexture2D::874744257757580841::1709899593::1709899596::1::::<><>::
-::res://Components/::1710620661
-item.tscn::PackedScene::7892926096091537455::1710620661::0::1::::<><>::res://item_scripts/item.gd
-::res://Effects/::1710620661
+::res://Components/::1710696964
+item.tscn::PackedScene::7892926096091537455::1710696964::0::1::::<><>::res://item_scripts/item.gd
+::res://Effects/::1710696964
 Item_move_effect.gd::GDScript::-1::1710002808::0::1::::<>Sprite2D<>::
-item_move_effect.tscn::PackedScene::4760195935155095129::1710620661::0::1::::<><>::res://Effects/Item_move_effect.gd
-::res://global/::1710620655
-global.gd::GDScript::-1::1710620655::0::1::::<>Node<>::
+item_move_effect.tscn::PackedScene::4760195935155095129::1710696964::0::1::::<><>::res://Effects/Item_move_effect.gd
+::res://global/::1710624274
+global.gd::GDScript::-1::1710624274::0::1::::<>Node<>::
 ::res://Graphics/::1709997042
 apple.png::CompressedTexture2D::3947382207605092799::1605019345::1709902600::1::::<><>::
 grass.png::CompressedTexture2D::7972225706940163622::1605019345::1709922282::1::::<><>::
 Snake_spritesheet.png::CompressedTexture2D::3054347828126959420::1605019345::1709902832::1::::<><>::
-::res://Graphics/assets/::1709997059
+::res://Graphics/assets/::1711310166
 Dungeon_Character_at.png::CompressedTexture2D::839797412637038309::1544151886::1709997059::1::::<><>::
 Dungeon_Tileset_at.png::CompressedTexture2D::454264933143742628::1544151978::1709997059::1::::<><>::
 ::res://Graphics/assets/character and tileset/::1709997060
@@ -229,6 +229,195 @@ torch_1.png::CompressedTexture2D::2077450708805677133::1544148708::1709997059::1
 torch_2.png::CompressedTexture2D::5654551895179926531::1544148708::1709997059::1::::<><>::
 torch_3.png::CompressedTexture2D::2739566764007963193::1544148708::1709997059::1::::<><>::
 torch_4.png::CompressedTexture2D::6056667853704746756::1544148710::1709997059::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/::1711310171
+Pixel Art Rock Pile Pack - Read Me.txt::TextFile::-1::1701815947::0::1::::<><>::
+Rock Pile - Spritesheet.png::CompressedTexture2D::9097489232531239713::1701815161::1711310171::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - AZURE -/::1711310170
+Rock Pile 1 - AZURE - BIG.PNG::CompressedTexture2D::8744611279110319890::1701806627::1711310170::1::::<><>::
+Rock Pile 1 - AZURE - small.PNG::CompressedTexture2D::2795477685825076436::1701806628::1711310170::1::::<><>::
+Rock Pile 2 - AZURE - BIG.PNG::CompressedTexture2D::6353952426396819343::1701806627::1711310170::1::::<><>::
+Rock Pile 2 - AZURE - small.PNG::CompressedTexture2D::8339014717407006130::1701806628::1711310170::1::::<><>::
+Rock Pile 3 - AZURE - BIG.PNG::CompressedTexture2D::6418549260427070546::1701815208::1711310170::1::::<><>::
+Rock Pile 3 - AZURE - small.PNG::CompressedTexture2D::6622943974380369281::1701815229::1711310170::1::::<><>::
+Rock Pile 4 - AZURE - BIG.PNG::CompressedTexture2D::8577481656990753578::1701806626::1711310170::1::::<><>::
+Rock Pile 4 - AZURE - small.PNG::CompressedTexture2D::5042032624955882659::1701806626::1711310170::1::::<><>::
+Rock Pile 5 - AZURE - BIG.PNG::CompressedTexture2D::25235135734364385::1701806626::1711310170::1::::<><>::
+Rock Pile 5 - AZURE - small.PNG::CompressedTexture2D::6808510113686711351::1701806626::1711310170::1::::<><>::
+Rock Pile 6 - AZURE - BIG.PNG::CompressedTexture2D::1003282721294742746::1701806625::1711310170::1::::<><>::
+Rock Pile 6 - AZURE - small.PNG::CompressedTexture2D::8370646641831511545::1701806625::1711310170::1::::<><>::
+Rock Pile 7 - AZURE - BIG.PNG::CompressedTexture2D::7196333447857729476::1701806624::1711310170::1::::<><>::
+Rock Pile 7 - AZURE - small.PNG::CompressedTexture2D::4850392743516659591::1701806625::1711310170::1::::<><>::
+Rock Pile 8 - AZURE - BIG.PNG::CompressedTexture2D::8577971095209846805::1701806624::1711310170::1::::<><>::
+Rock Pile 8 - AZURE - small.PNG::CompressedTexture2D::6733686490279996895::1701806624::1711310170::1::::<><>::
+Rock Pile 9 - AZURE - BIG.PNG::CompressedTexture2D::884533127373073895::1701806623::1711310170::1::::<><>::
+Rock Pile 9 - AZURE - small.PNG::CompressedTexture2D::6234390343839631106::1701806624::1711310170::1::::<><>::
+Rock Pile 10 - AZURE - BIG.PNG::CompressedTexture2D::6968675364390022386::1701806623::1711310170::1::::<><>::
+Rock Pile 10 - AZURE - small.PNG::CompressedTexture2D::1221066044304718021::1701806623::1711310170::1::::<><>::
+Rock Pile 11 - AZURE - BIG.PNG::CompressedTexture2D::1306099134037256988::1701806622::1711310170::1::::<><>::
+Rock Pile 11 - AZURE - small.PNG::CompressedTexture2D::3450653589642071530::1701806623::1711310170::1::::<><>::
+Rock Pile 12 - AZURE - BIG.PNG::CompressedTexture2D::3130953447755710113::1701806622::1711310170::1::::<><>::
+Rock Pile 12 - AZURE - small.PNG::CompressedTexture2D::3558758031921250376::1701806622::1711310170::1::::<><>::
+Rock Pile 13 - AZURE - BIG.PNG::CompressedTexture2D::5103256229386701746::1701806621::1711310170::1::::<><>::
+Rock Pile 13 - AZURE - small.PNG::CompressedTexture2D::1090073070490623858::1701806622::1711310170::1::::<><>::
+Rock Pile 14 - AZURE - BIG.PNG::CompressedTexture2D::4883842862241489757::1701806621::1711310170::1::::<><>::
+Rock Pile 14 - AZURE - small.PNG::CompressedTexture2D::4209932636322694275::1701806621::1711310170::1::::<><>::
+Rock Pile 15 - AZURE - BIG.PNG::CompressedTexture2D::5516256183999268347::1701806620::1711310170::1::::<><>::
+Rock Pile 15 - AZURE - small.PNG::CompressedTexture2D::2919769914078777488::1701806620::1711310170::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - BEIGE -/::1711310170
+Rock Pile 1 - BEIGE - BIG.PNG::CompressedTexture2D::1926993808789468721::1701806589::1711310170::1::::<><>::
+Rock Pile 1 - BEIGE - small.PNG::CompressedTexture2D::2371942419903909144::1701806589::1711310170::1::::<><>::
+Rock Pile 2 - BEIGE - BIG.PNG::CompressedTexture2D::8202075568315169951::1701806589::1711310170::1::::<><>::
+Rock Pile 2 - BEIGE - small.PNG::CompressedTexture2D::4812923986797614404::1701806589::1711310170::1::::<><>::
+Rock Pile 3 - BEIGE - BIG.PNG::CompressedTexture2D::6125316822903403336::1701815261::1711310170::1::::<><>::
+Rock Pile 3 - BEIGE - small.PNG::CompressedTexture2D::6964962345690239336::1701815273::1711310170::1::::<><>::
+Rock Pile 4 - BEIGE - BIG.PNG::CompressedTexture2D::1073579879702359624::1701806588::1711310170::1::::<><>::
+Rock Pile 4 - BEIGE - small.PNG::CompressedTexture2D::6347963828771432716::1701806588::1711310170::1::::<><>::
+Rock Pile 5 - BEIGE - BIG.PNG::CompressedTexture2D::7685586982501205859::1701806587::1711310170::1::::<><>::
+Rock Pile 5 - BEIGE - small.PNG::CompressedTexture2D::7688841214844118036::1701806587::1711310170::1::::<><>::
+Rock Pile 6 - BEIGE - BIG.PNG::CompressedTexture2D::4596583500720517278::1701806587::1711310170::1::::<><>::
+Rock Pile 6 - BEIGE - small.PNG::CompressedTexture2D::5920787033525045573::1701806587::1711310170::1::::<><>::
+Rock Pile 7 - BEIGE - BIG.PNG::CompressedTexture2D::1013562306224915517::1701806586::1711310170::1::::<><>::
+Rock Pile 7 - BEIGE - small.PNG::CompressedTexture2D::1970526512062459228::1701806586::1711310170::1::::<><>::
+Rock Pile 8 - BEIGE - BIG.PNG::CompressedTexture2D::8620115736484457075::1701806586::1711310170::1::::<><>::
+Rock Pile 8 - BEIGE - small.PNG::CompressedTexture2D::745392086303986476::1701806586::1711310170::1::::<><>::
+Rock Pile 9 - BEIGE - BIG.PNG::CompressedTexture2D::1749032442788292204::1701806585::1711310170::1::::<><>::
+Rock Pile 9 - BEIGE - small.PNG::CompressedTexture2D::1616706902012365685::1701806585::1711310170::1::::<><>::
+Rock Pile 10 - BEIGE - BIG.PNG::CompressedTexture2D::6391418710158297015::1701806585::1711310170::1::::<><>::
+Rock Pile 10 - BEIGE - small.PNG::CompressedTexture2D::2986867471515190809::1701806585::1711310170::1::::<><>::
+Rock Pile 11 - BEIGE - BIG.PNG::CompressedTexture2D::811838401484511909::1701806584::1711310170::1::::<><>::
+Rock Pile 11 - BEIGE - small.PNG::CompressedTexture2D::7418522820062832603::1701806584::1711310170::1::::<><>::
+Rock Pile 12 - BEIGE - BIG.PNG::CompressedTexture2D::3228992584919779579::1701806584::1711310170::1::::<><>::
+Rock Pile 12 - BEIGE - small.PNG::CompressedTexture2D::4995059829150353464::1701806584::1711310170::1::::<><>::
+Rock Pile 13 - BEIGE - BIG.PNG::CompressedTexture2D::1416049682289080970::1701806583::1711310170::1::::<><>::
+Rock Pile 13 - BEIGE - small.PNG::CompressedTexture2D::8172441192186026421::1701806583::1711310170::1::::<><>::
+Rock Pile 14 - BEIGE - BIG.PNG::CompressedTexture2D::3542814263321504409::1701806583::1711310170::1::::<><>::
+Rock Pile 14 - BEIGE - small.PNG::CompressedTexture2D::4561187595057308181::1701806583::1711310170::1::::<><>::
+Rock Pile 15 - BEIGE - BIG.PNG::CompressedTexture2D::1480577361065880650::1701806582::1711310170::1::::<><>::
+Rock Pile 15 - BEIGE - small.PNG::CompressedTexture2D::3795755143790889499::1701806582::1711310170::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - MOSSY -/::1711310170
+Rock Pile 1 - MOSSY - BIG.PNG::CompressedTexture2D::6592965434344794005::1701806604::1711310170::1::::<><>::
+Rock Pile 1 - MOSSY - small.PNG::CompressedTexture2D::4251952843346956476::1701806604::1711310170::1::::<><>::
+Rock Pile 2 - MOSSY - BIG.PNG::CompressedTexture2D::1740293400855081989::1701806603::1711310170::1::::<><>::
+Rock Pile 2 - MOSSY - small.PNG::CompressedTexture2D::4261435067359249431::1701806604::1711310170::1::::<><>::
+Rock Pile 3 - MOSSY - BIG.PNG::CompressedTexture2D::2867142932132166643::1701815306::1711310170::1::::<><>::
+Rock Pile 3 - MOSSY - small.PNG::CompressedTexture2D::4601924843114116915::1701815314::1711310170::1::::<><>::
+Rock Pile 4 - MOSSY - BIG.PNG::CompressedTexture2D::3229272835629701582::1701806602::1711310170::1::::<><>::
+Rock Pile 4 - MOSSY - small.PNG::CompressedTexture2D::3676431937847788543::1701806603::1711310170::1::::<><>::
+Rock Pile 5 - MOSSY - BIG.PNG::CompressedTexture2D::1260160778774402205::1701806602::1711310170::1::::<><>::
+Rock Pile 5 - MOSSY - small.PNG::CompressedTexture2D::5274114110793238399::1701806602::1711310170::1::::<><>::
+Rock Pile 6 - MOSSY - BIG.PNG::CompressedTexture2D::8281717625446499526::1701806601::1711310170::1::::<><>::
+Rock Pile 6 - MOSSY - small.PNG::CompressedTexture2D::1192496286909870922::1701806602::1711310170::1::::<><>::
+Rock Pile 7 - MOSSY - BIG.PNG::CompressedTexture2D::8460173024794632466::1701806601::1711310170::1::::<><>::
+Rock Pile 7 - MOSSY - small.PNG::CompressedTexture2D::4004998549365889267::1701806601::1711310170::1::::<><>::
+Rock Pile 8 - MOSSY - BIG.PNG::CompressedTexture2D::5204168850947422275::1701806600::1711310170::1::::<><>::
+Rock Pile 8 - MOSSY - small.PNG::CompressedTexture2D::5901739049241563316::1701806601::1711310170::1::::<><>::
+Rock Pile 9 - MOSSY - BIG.PNG::CompressedTexture2D::6918565582939680881::1701806600::1711310170::1::::<><>::
+Rock Pile 9 - MOSSY - small.PNG::CompressedTexture2D::2663792604062433334::1701806600::1711310170::1::::<><>::
+Rock Pile 10 - MOSSY - BIG.PNG::CompressedTexture2D::1928187575854610657::1701806599::1711310170::1::::<><>::
+Rock Pile 10 - MOSSY - small.PNG::CompressedTexture2D::3532456876762629710::1701806600::1711310170::1::::<><>::
+Rock Pile 11 - MOSSY - BIG.PNG::CompressedTexture2D::5625599825361091700::1701806599::1711310170::1::::<><>::
+Rock Pile 11 - MOSSY - small.PNG::CompressedTexture2D::6093601926195643935::1701806599::1711310170::1::::<><>::
+Rock Pile 12 - MOSSY - BIG.PNG::CompressedTexture2D::7027850100855445229::1701806598::1711310170::1::::<><>::
+Rock Pile 12 - MOSSY - small.PNG::CompressedTexture2D::2154810093231948588::1701806599::1711310170::1::::<><>::
+Rock Pile 13 - MOSSY - BIG.PNG::CompressedTexture2D::3495175484857020111::1701806598::1711310170::1::::<><>::
+Rock Pile 13 - MOSSY - small.PNG::CompressedTexture2D::5737439832097362533::1701806598::1711310170::1::::<><>::
+Rock Pile 14 - MOSSY - BIG.PNG::CompressedTexture2D::472098935309110510::1701806597::1711310170::1::::<><>::
+Rock Pile 14 - MOSSY - small.PNG::CompressedTexture2D::2110843121017612306::1701806598::1711310170::1::::<><>::
+Rock Pile 15 - MOSSY - BIG.PNG::CompressedTexture2D::2455892685996411085::1701806597::1711310170::1::::<><>::
+Rock Pile 15 - MOSSY - small.PNG::CompressedTexture2D::2551069085499388156::1701806597::1711310170::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - ORANGE -/::1711310170
+Rock Pile 1 - ORANGE - BIG.PNG::CompressedTexture2D::7241258598589778506::1701806596::1711310170::1::::<><>::
+Rock Pile 1 - ORANGE - small.PNG::CompressedTexture2D::6836566503062132535::1701806597::1711310170::1::::<><>::
+Rock Pile 2 - ORANGE - BIG.PNG::CompressedTexture2D::8416262093449882542::1701806596::1711310170::1::::<><>::
+Rock Pile 2 - ORANGE - small.PNG::CompressedTexture2D::4774017660959560251::1701806596::1711310170::1::::<><>::
+Rock Pile 3 - ORANGE - BIG.PNG::CompressedTexture2D::736008146982276137::1701815336::1711310170::1::::<><>::
+Rock Pile 3 - ORANGE - small.PNG::CompressedTexture2D::2349434774942364085::1701815343::1711310170::1::::<><>::
+Rock Pile 4 - ORANGE - BIG.PNG::CompressedTexture2D::2326580096257691941::1701806595::1711310170::1::::<><>::
+Rock Pile 4 - ORANGE - small.PNG::CompressedTexture2D::2020391655471616903::1701806595::1711310170::1::::<><>::
+Rock Pile 5 - ORANGE - BIG.PNG::CompressedTexture2D::1238317671344568458::1701806594::1711310170::1::::<><>::
+Rock Pile 5 - ORANGE - small.PNG::CompressedTexture2D::11976989970639631::1701806595::1711310170::1::::<><>::
+Rock Pile 6 - ORANGE - BIG.PNG::CompressedTexture2D::1914024609257397597::1701806594::1711310170::1::::<><>::
+Rock Pile 6 - ORANGE - small.PNG::CompressedTexture2D::3013877884632058530::1701806594::1711310170::1::::<><>::
+Rock Pile 7 - ORANGE - BIG.PNG::CompressedTexture2D::8190649634145130027::1701806593::1711310170::1::::<><>::
+Rock Pile 7 - ORANGE - small.PNG::CompressedTexture2D::7979600770494292717::1701806594::1711310170::1::::<><>::
+Rock Pile 8 - ORANGE - BIG.PNG::CompressedTexture2D::557081501132413582::1701806593::1711310170::1::::<><>::
+Rock Pile 8 - ORANGE - small.PNG::CompressedTexture2D::2291275096741243060::1701806593::1711310170::1::::<><>::
+Rock Pile 9 - ORANGE - BIG.PNG::CompressedTexture2D::6834595631198299212::1701806592::1711310170::1::::<><>::
+Rock Pile 9 - ORANGE - small.PNG::CompressedTexture2D::4901628819963559579::1701806593::1711310170::1::::<><>::
+Rock Pile 10 - ORANGE - BIG.PNG::CompressedTexture2D::3088078983136339933::1701806592::1711310170::1::::<><>::
+Rock Pile 10 - ORANGE - small.PNG::CompressedTexture2D::6596256307670285338::1701806592::1711310170::1::::<><>::
+Rock Pile 11 - ORANGE - BIG.PNG::CompressedTexture2D::281510600116074914::1701806591::1711310170::1::::<><>::
+Rock Pile 11 - ORANGE - small.PNG::CompressedTexture2D::9068886044124397382::1701806592::1711310170::1::::<><>::
+Rock Pile 12 - ORANGE - BIG.PNG::CompressedTexture2D::2381647554659243111::1701806591::1711310170::1::::<><>::
+Rock Pile 12 - ORANGE - small.PNG::CompressedTexture2D::1727747057404318257::1701806591::1711310170::1::::<><>::
+Rock Pile 13 - ORANGE - BIG.PNG::CompressedTexture2D::2192894134320583286::1701806590::1711310170::1::::<><>::
+Rock Pile 13 - ORANGE - small.PNG::CompressedTexture2D::8465269461577744911::1701806591::1711310170::1::::<><>::
+Rock Pile 14 - ORANGE - BIG.PNG::CompressedTexture2D::1997197460847583319::1701806590::1711310170::1::::<><>::
+Rock Pile 14 - ORANGE - small.PNG::CompressedTexture2D::7178814859756906187::1701806590::1711310170::1::::<><>::
+Rock Pile 15 - ORANGE - BIG.PNG::CompressedTexture2D::8651295465355278975::1701806589::1711310170::1::::<><>::
+Rock Pile 15 - ORANGE - small.PNG::CompressedTexture2D::4018197524406016983::1701806590::1711310170::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - SILVER -/::1711310170
+Rock Pile 1 - SILVER - BIG.PNG::CompressedTexture2D::6224589855129302464::1701806620::1711310170::1::::<><>::
+Rock Pile 1 - SILVER - small.PNG::CompressedTexture2D::1732449347524010939::1701806620::1711310170::1::::<><>::
+Rock Pile 2 - SILVER - BIG.PNG::CompressedTexture2D::6925938870895188740::1701806619::1711310170::1::::<><>::
+Rock Pile 2 - SILVER - small.PNG::CompressedTexture2D::5103809832252584723::1701806619::1711310170::1::::<><>::
+Rock Pile 3 - SILVER - BIG.PNG::CompressedTexture2D::4459964938096689387::1701815366::1711310170::1::::<><>::
+Rock Pile 3 - SILVER - small.PNG::CompressedTexture2D::3509968705485063316::1701815374::1711310170::1::::<><>::
+Rock Pile 4 - SILVER - BIG.PNG::CompressedTexture2D::2237196197770892327::1701806618::1711310170::1::::<><>::
+Rock Pile 4 - SILVER - small.PNG::CompressedTexture2D::6271795853838948376::1701806618::1711310170::1::::<><>::
+Rock Pile 5 - SILVER - BIG.PNG::CompressedTexture2D::7069910900527892799::1701806618::1711310170::1::::<><>::
+Rock Pile 5 - SILVER - small.PNG::CompressedTexture2D::8276003211542504292::1701806618::1711310170::1::::<><>::
+Rock Pile 6 - SILVER - BIG.PNG::CompressedTexture2D::757193749253314219::1701806617::1711310170::1::::<><>::
+Rock Pile 6 - SILVER - small.PNG::CompressedTexture2D::1605481472825057997::1701806617::1711310170::1::::<><>::
+Rock Pile 7 - SILVER - BIG.PNG::CompressedTexture2D::6280096127561185607::1701806616::1711310170::1::::<><>::
+Rock Pile 7 - SILVER - small.PNG::CompressedTexture2D::6248045136551358813::1701806617::1711310170::1::::<><>::
+Rock Pile 8 - SILVER - BIG.PNG::CompressedTexture2D::4144332667560641425::1701806616::1711310170::1::::<><>::
+Rock Pile 8 - SILVER - small.PNG::CompressedTexture2D::4628976088509110181::1701806616::1711310170::1::::<><>::
+Rock Pile 9 - SILVER - BIG.PNG::CompressedTexture2D::9111380420353034569::1701806615::1711310170::1::::<><>::
+Rock Pile 9 - SILVER - small.PNG::CompressedTexture2D::2059584087159814230::1701806616::1711310170::1::::<><>::
+Rock Pile 10 - SILVER - BIG.PNG::CompressedTexture2D::6656602999485042629::1701806615::1711310170::1::::<><>::
+Rock Pile 10 - SILVER - small.PNG::CompressedTexture2D::5164510569062537703::1701806615::1711310170::1::::<><>::
+Rock Pile 11 - SILVER - BIG.PNG::CompressedTexture2D::6654684461529183583::1701806614::1711310170::1::::<><>::
+Rock Pile 11 - SILVER - small.PNG::CompressedTexture2D::4404111150398199044::1701806615::1711310170::1::::<><>::
+Rock Pile 12 - SILVER - BIG.PNG::CompressedTexture2D::1009826666434819385::1701806614::1711310170::1::::<><>::
+Rock Pile 12 - SILVER - small.PNG::CompressedTexture2D::3570703008973607833::1701806614::1711310170::1::::<><>::
+Rock Pile 13 - SILVER - BIG.PNG::CompressedTexture2D::580701170178711586::1701806613::1711310170::1::::<><>::
+Rock Pile 13 - SILVER - small.PNG::CompressedTexture2D::5391188981989548636::1701806613::1711310170::1::::<><>::
+Rock Pile 14 - SILVER - BIG.PNG::CompressedTexture2D::4167013868122042801::1701806613::1711310170::1::::<><>::
+Rock Pile 14 - SILVER - small.PNG::CompressedTexture2D::4648244089683321680::1701806613::1711310170::1::::<><>::
+Rock Pile 15 - SILVER - BIG.PNG::CompressedTexture2D::2061513019115202004::1701806612::1711310170::1::::<><>::
+Rock Pile 15 - SILVER - small.PNG::CompressedTexture2D::5717184761179352176::1701806612::1711310170::1::::<><>::
+::res://Graphics/assets/Pixel Art Rock Pile Pack/Rock Pile - WHITE -/::1711310170
+Rock Pile 1 - WHITE - BIG.PNG::CompressedTexture2D::5007077774315136558::1701806611::1711310170::1::::<><>::
+Rock Pile 1 - WHITE - small.PNG::CompressedTexture2D::1676917542931361364::1701806611::1711310170::1::::<><>::
+Rock Pile 2 - WHITE - BIG.PNG::CompressedTexture2D::4695624375261745646::1701806612::1711310170::1::::<><>::
+Rock Pile 2 - WHITE - small.PNG::CompressedTexture2D::3057945872547196078::1701806612::1711310170::1::::<><>::
+Rock Pile 3 - WHITE - BIG.PNG::CompressedTexture2D::2227142646845140083::1701815400::1711310170::1::::<><>::
+Rock Pile 3 - WHITE - small.PNG::CompressedTexture2D::3060411722872709146::1701815407::1711310170::1::::<><>::
+Rock Pile 4 - WHITE - BIG.PNG::CompressedTexture2D::3395585536806277938::1701806610::1711310170::1::::<><>::
+Rock Pile 4 - WHITE - small.PNG::CompressedTexture2D::6597128416522344327::1701806610::1711310170::1::::<><>::
+Rock Pile 5 - WHITE - BIG.PNG::CompressedTexture2D::1613065288535990649::1701806610::1711310170::1::::<><>::
+Rock Pile 5 - WHITE - small.PNG::CompressedTexture2D::4692516178895366530::1701806610::1711310170::1::::<><>::
+Rock Pile 6 - WHITE - BIG.PNG::CompressedTexture2D::2587638074711584198::1701806609::1711310170::1::::<><>::
+Rock Pile 6 - WHITE - small.PNG::CompressedTexture2D::5049470186961167337::1701806609::1711310170::1::::<><>::
+Rock Pile 7 - WHITE - BIG.PNG::CompressedTexture2D::87055504310462170::1701806608::1711310170::1::::<><>::
+Rock Pile 7 - WHITE - small.PNG::CompressedTexture2D::944477564095930153::1701806609::1711310170::1::::<><>::
+Rock Pile 8 - WHITE - BIG.PNG::CompressedTexture2D::3317664864523951285::1701806608::1711310170::1::::<><>::
+Rock Pile 8 - WHITE - small.PNG::CompressedTexture2D::2730165645271295916::1701806608::1711310170::1::::<><>::
+Rock Pile 9 - WHITE - BIG.PNG::CompressedTexture2D::6851725070324619406::1701806607::1711310170::1::::<><>::
+Rock Pile 9 - WHITE - small.PNG::CompressedTexture2D::4664452409961807856::1701806608::1711310170::1::::<><>::
+Rock Pile 10 - WHITE - BIG.PNG::CompressedTexture2D::1880513881471679698::1701806607::1711310170::1::::<><>::
+Rock Pile 10 - WHITE - small.PNG::CompressedTexture2D::9026592608759961323::1701806607::1711310170::1::::<><>::
+Rock Pile 11 - WHITE - BIG.PNG::CompressedTexture2D::447392573123521110::1701806606::1711310170::1::::<><>::
+Rock Pile 11 - WHITE - small.PNG::CompressedTexture2D::3503396803034279265::1701806607::1711310170::1::::<><>::
+Rock Pile 12 - WHITE - BIG.PNG::CompressedTexture2D::8794251010693578865::1701806606::1711310170::1::::<><>::
+Rock Pile 12 - WHITE - small.PNG::CompressedTexture2D::5206239488963655677::1701806606::1711310170::1::::<><>::
+Rock Pile 13 - WHITE - BIG.PNG::CompressedTexture2D::2861733841175348050::1701806605::1711310170::1::::<><>::
+Rock Pile 13 - WHITE - small.PNG::CompressedTexture2D::1498096326382204682::1701806606::1711310170::1::::<><>::
+Rock Pile 14 - WHITE - BIG.PNG::CompressedTexture2D::9129748616579106948::1701806605::1711310170::1::::<><>::
+Rock Pile 14 - WHITE - small.PNG::CompressedTexture2D::8016855209593176346::1701806605::1711310170::1::::<><>::
+Rock Pile 15 - WHITE - BIG.PNG::CompressedTexture2D::4180741649015854006::1701806604::1711310170::1::::<><>::
+Rock Pile 15 - WHITE - small.PNG::CompressedTexture2D::8123983108876034965::1701806605::1711310170::1::::<><>::
 ::res://Graphics/keys/::1709997059
 keys_1_1.png::CompressedTexture2D::7758384056424398436::1544148510::1709997059::1::::<><>::
 keys_1_2.png::CompressedTexture2D::3973682914830869395::1544148510::1709997059::1::::<><>::
@@ -238,19 +427,19 @@ keys_2_1.png::CompressedTexture2D::4469079706571462476::1544148498::1709997059::
 keys_2_2.png::CompressedTexture2D::5788894343169185983::1544148498::1709997059::1::::<><>::
 keys_2_3.png::CompressedTexture2D::6880870692602145417::1544148498::1709997059::1::::<><>::
 keys_2_4.png::CompressedTexture2D::7478963769930758952::1544148498::1709997059::1::::<><>::
-::res://Items/::1710620661
-apple.tscn::PackedScene::5384501712453439306::1710620661::0::1::::<><>::uid://dkpnlsu5b8hyl::::res://Components/item.tscn<>uid://bwie2qlbsjh0j::::res://Graphics/apple.png
-key.tscn::PackedScene::2618397816126265766::1710620661::0::1::::<><>::uid://dkpnlsu5b8hyl::::res://Components/item.tscn<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
+::res://Items/::1710696964
+apple.tscn::PackedScene::5384501712453439306::1710696964::0::1::::<><>::uid://dkpnlsu5b8hyl::::res://Components/item.tscn<>uid://bwie2qlbsjh0j::::res://Graphics/apple.png
+key.tscn::PackedScene::2618397816126265766::1710696964::0::1::::<><>::uid://dkpnlsu5b8hyl::::res://Components/item.tscn<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
 ::res://item_scripts/::1710088311
 item.gd::GDScript::-1::1710088311::0::1::::Item<>Area2D<>::
-::res://Main_Scenes/::1710620661
-main_menu.tscn::PackedScene::1981475957419877475::1710620661::0::1::::<><>::res://Main_scripts/main_menu.gd
-segment.tscn::PackedScene::5441140815694158095::1710620661::0::1::::<><>::res://Main_scripts/segment.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
-snake.tscn::PackedScene::5777096133470202100::1710620661::0::1::::<><>::res://Main_scripts/snake.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png
-world.tscn::PackedScene::7223688131486191576::1710620661::0::1::::<><>::res://Main_scripts/world.gd<>uid://cokp6uigh0k0c::::res://Main_Scenes/snake.tscn<>uid://dlt2nl5gmhcg1::::res://Graphics/grass.png<>uid://bdkmvnxbkku5k::::res://Items/key.tscn
-::res://Main_scripts/::1710618722
-main_menu.gd::GDScript::-1::1710618640::0::1::::<>Control<>::
+::res://Main_Scenes/::1710696965
+main_menu.tscn::PackedScene::1981475957419877475::1710696965::0::1::::<><>::res://Main_scripts/main_menu.gd
+segment.tscn::PackedScene::5441140815694158095::1710696964::0::1::::<><>::res://Main_scripts/segment.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png<>uid://b4w4db3sn2rmi::::res://Graphics/keys/keys_2_1.png
+snake.tscn::PackedScene::5777096133470202100::1710696964::0::1::::<><>::res://Main_scripts/snake.gd<>uid://bjrswr3iqm4se::::res://Graphics/Snake_spritesheet.png
+world.tscn::PackedScene::7223688131486191576::1710696964::0::1::::<><>::res://Main_scripts/world.gd<>uid://cokp6uigh0k0c::::res://Main_Scenes/snake.tscn<>uid://dlt2nl5gmhcg1::::res://Graphics/grass.png<>uid://bdkmvnxbkku5k::::res://Items/key.tscn
+::res://Main_scripts/::1710683718
+main_menu.gd::GDScript::-1::1710621434::0::1::::<>Control<>::
 segment.gd::GDScript::-1::1710092237::0::1::::<>CharacterBody2D<>::
-snake.gd::GDScript::-1::1710094822::0::1::::<>CharacterBody2D<>::
-world.gd::GDScript::-1::1710618722::0::1::::<>Node2D<>::
+snake.gd::GDScript::-1::1710683718::0::1::::<>CharacterBody2D<>::
+world.gd::GDScript::-1::1710683528::0::1::::<>Node2D<>::
 ::res://UI/::1710616840

@@ -1,5 +1,4 @@
 res://Main_Scenes/world.tscn
-res://global/global.gd
 res://Main_Scenes/snake.tscn
 res://Components/item.tscn
 res://Main_Scenes/segment.tscn
@@ -7,4 +6,3 @@ res://Items/apple.tscn
 res://Items/key.tscn
 res://Effects/item_move_effect.tscn
 res://Main_Scenes/main_menu.tscn
-res://Main_scripts/main_menu.gd

@@ -4,7 +4,7 @@ var food = preload("res://Items/apple.tscn")
 
 
 func _ready():
-	Global.js_show_ad()
+	#Global.js_show_ad()
 	$TextureRect.size.x = 2000
 	$TextureRect.size.y = 2000
 	$TextureRect.position.x = 0
